@@ -18,6 +18,7 @@ export default function App() {
   const [selectedCategory, setSelectedCategory] = useState('All');
   const [activeGame, setActiveGame] = useState(null);
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
+  const [showBetaModal, setShowBetaModal] = useState(true);
 
   const categories = ['All', ...Array.from(new Set(gamesData.map(g => g.category)))];
 
@@ -39,6 +40,61 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-[#1a1a1a] text-white flex font-sans selection:bg-neon-red selection:text-white overflow-hidden">
+      {/* Beta Disclaimer Modal */}
+      <AnimatePresence>
+        {showBetaModal && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-black/90 backdrop-blur-sm"
+          >
+            <motion.div
+              initial={{ scale: 0.9, y: 20 }}
+              animate={{ scale: 1, y: 0 }}
+              className="bg-brutal-black border-2 border-neon-red p-8 max-w-md w-full shadow-[0_0_50px_rgba(255,0,0,0.3)] relative overflow-hidden"
+            >
+              <div className="absolute top-0 left-0 w-full h-1 bg-neon-red animate-pulse"></div>
+              
+              <div className="flex items-center gap-3 mb-6">
+                <div className="p-3 bg-neon-red/20 rounded-full text-neon-red">
+                  <AlertCircle size={32} />
+                </div>
+                <h2 className="text-2xl font-black text-white uppercase tracking-tighter italic">
+                  Read Before Playing
+                </h2>
+              </div>
+
+              <div className="space-y-4 mb-8">
+                <div className="p-4 bg-white/5 border-l-4 border-neon-red">
+                  <p className="text-neon-red font-bold text-sm uppercase tracking-widest mb-1">Status: Beta v0.1</p>
+                  <p className="text-white text-lg font-medium leading-tight">
+                    This website is currently in <span className="text-neon-red underline">beta</span>.
+                  </p>
+                </div>
+                
+                <p className="text-white/70 text-sm leading-relaxed">
+                  <span className="font-bold text-white">Disclaimer:</span> Some apps and simulations may not function as expected during this testing phase. We are constantly updating the core modules.
+                </p>
+
+                <div className="bg-neon-red/10 p-3 rounded border border-neon-red/20">
+                  <p className="text-[10px] text-neon-red font-bold uppercase tracking-widest text-center">
+                    System Protocol: Experimental
+                  </p>
+                </div>
+              </div>
+
+              <button
+                onClick={() => setShowBetaModal(false)}
+                className="w-full py-4 bg-neon-red hover:bg-dark-red text-white font-black uppercase tracking-widest transition-all shadow-[0_0_20px_rgba(255,0,0,0.4)] hover:shadow-[0_0_30px_rgba(255,0,0,0.6)] active:scale-95"
+              >
+                Enter Simulation
+              </button>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
       {/* Canvas Global Navigation (Left Sidebar) */}
       <nav className="w-[84px] bg-brutal-black flex flex-col items-center py-4 gap-1 z-40 shrink-0 h-screen overflow-y-auto custom-scrollbar border-r border-white/10">
         <div className="w-12 h-12 bg-neon-red flex items-center justify-center rounded-sm mb-4 cursor-pointer hover:bg-dark-red transition-colors shadow-[0_0_15px_rgba(255,0,0,0.3)]">
