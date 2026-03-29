@@ -1,0 +1,702 @@
+[
+  {
+    "id": "1",
+    "title": "Retro Bowl",
+    "url": "https://game316009.konggames.com/gamez/0031/6009/live/index.html",
+    "thumbnail": "https://picsum.photos/seed/football/400/300",
+    "category": "Sports"
+  },
+  {
+    "id": "2",
+    "title": "Slope",
+    "url": "https://kdata1.com/2020/05/slope/",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "3",
+    "title": "Tunnel Rush",
+    "url": "https://tunnelrush.io/",
+    "thumbnail": "https://picsum.photos/seed/tunnel/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "4",
+    "title": "Cookie Clicker",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300",
+    "category": "Idle"
+  },
+  {
+    "id": "5",
+    "title": "2048",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "6",
+    "title": "Tetris",
+    "url": "https://tetris.com/play-tetris",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "7",
+    "title": "Paper.io 2",
+    "url": "https://paper-io.com/",
+    "thumbnail": "https://picsum.photos/seed/paper/400/300",
+    "category": "IO"
+  },
+  {
+    "id": "8",
+    "title": "Shell Shockers",
+    "url": "https://shellshock.io/",
+    "thumbnail": "https://picsum.photos/seed/egg/400/300",
+    "category": "Shooter"
+  },
+  {
+    "id": "9",
+    "title": "1v1.LOL",
+    "url": "https://1v1.lol/",
+    "thumbnail": "https://picsum.photos/seed/1v1/400/300",
+    "category": "Shooter"
+  },
+  {
+    "id": "10",
+    "title": "BitLife",
+    "url": "https://bitlifeonline.com/",
+    "thumbnail": "https://picsum.photos/seed/life/400/300",
+    "category": "Simulation"
+  },
+  {
+    "id": "11",
+    "title": "Drift Hunters",
+    "url": "https://drift-hunters.com/",
+    "thumbnail": "https://picsum.photos/seed/drift/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "12",
+    "title": "Minecraft Classic",
+    "url": "https://classic.minecraft.net/",
+    "thumbnail": "https://picsum.photos/seed/minecraft/400/300",
+    "category": "Sandbox"
+  },
+  {
+    "id": "13",
+    "title": "Among Us Online",
+    "url": "https://amongusplay.online/",
+    "thumbnail": "https://picsum.photos/seed/among/400/300",
+    "category": "Social"
+  },
+  {
+    "id": "14",
+    "title": "Friday Night Funkin'",
+    "url": "https://ninja-muffin24.itch.io/funkin",
+    "thumbnail": "https://picsum.photos/seed/funkin/400/300",
+    "category": "Music"
+  },
+  {
+    "id": "15",
+    "title": "Subway Surfers",
+    "url": "https://subwaysurfers.com/",
+    "thumbnail": "https://picsum.photos/seed/subway/400/300",
+    "category": "Runner"
+  },
+  {
+    "id": "16",
+    "title": "Temple Run 2",
+    "url": "https://templerun2.io/",
+    "thumbnail": "https://picsum.photos/seed/temple/400/300",
+    "category": "Runner"
+  },
+  {
+    "id": "17",
+    "title": "Geometry Dash",
+    "url": "https://geometrydash.io/",
+    "thumbnail": "https://picsum.photos/seed/geometry/400/300",
+    "category": "Platformer"
+  },
+  {
+    "id": "18",
+    "title": "Super Mario 64",
+    "url": "https://supermario64.io/",
+    "thumbnail": "https://picsum.photos/seed/mario/400/300",
+    "category": "Emulator"
+  },
+  {
+    "id": "19",
+    "title": "Sonic the Hedgehog",
+    "url": "https://sonic-the-hedgehog.io/",
+    "thumbnail": "https://picsum.photos/seed/sonic/400/300",
+    "category": "Platformer"
+  },
+  {
+    "id": "20",
+    "title": "Pac-Man",
+    "url": "https://pacman.com/en/play.php",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
+    "category": "Arcade"
+  },
+  {
+    "id": "21",
+    "title": "Smash Karts",
+    "url": "https://smashkarts.io/",
+    "thumbnail": "https://picsum.photos/seed/karts/400/300",
+    "category": "IO"
+  },
+  {
+    "id": "22",
+    "title": "Krunker.io",
+    "url": "https://krunker.io/",
+    "thumbnail": "https://picsum.photos/seed/krunker/400/300",
+    "category": "Shooter"
+  },
+  {
+    "id": "23",
+    "title": "Zombs Royale",
+    "url": "https://zombsroyale.io/",
+    "thumbnail": "https://picsum.photos/seed/zombs/400/300",
+    "category": "IO"
+  },
+  {
+    "id": "24",
+    "title": "Hole.io",
+    "url": "https://hole-io.com/",
+    "thumbnail": "https://picsum.photos/seed/hole/400/300",
+    "category": "IO"
+  },
+  {
+    "id": "25",
+    "title": "Agar.io",
+    "url": "https://agar.io/",
+    "thumbnail": "https://picsum.photos/seed/agar/400/300",
+    "category": "IO"
+  },
+  {
+    "id": "26",
+    "title": "Slither.io",
+    "url": "https://slither.io/",
+    "thumbnail": "https://picsum.photos/seed/slither/400/300",
+    "category": "IO"
+  },
+  {
+    "id": "27",
+    "title": "Diep.io",
+    "url": "https://diep.io/",
+    "thumbnail": "https://picsum.photos/seed/diep/400/300",
+    "category": "IO"
+  },
+  {
+    "id": "28",
+    "title": "Little Alchemy",
+    "url": "https://littlealchemy.com/",
+    "thumbnail": "https://picsum.photos/seed/alchemy/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "29",
+    "title": "World's Hardest Game",
+    "url": "https://www.coolmathgames.com/0-worlds-hardest-game",
+    "thumbnail": "https://picsum.photos/seed/hardest/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "30",
+    "title": "Flappy Bird",
+    "url": "https://flappybird.io/",
+    "thumbnail": "https://picsum.photos/seed/bird/400/300",
+    "category": "Arcade"
+  },
+  {
+    "id": "31",
+    "title": "Crossy Road",
+    "url": "https://crossyroad.io/",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/300",
+    "category": "Arcade"
+  },
+  {
+    "id": "32",
+    "title": "Doodle Jump",
+    "url": "https://doodlejump.io/",
+    "thumbnail": "https://picsum.photos/seed/doodle/400/300",
+    "category": "Arcade"
+  },
+  {
+    "id": "33",
+    "title": "Cut the Rope",
+    "url": "https://www.cuttherope.ie/",
+    "thumbnail": "https://picsum.photos/seed/rope/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "34",
+    "title": "Angry Birds",
+    "url": "https://www.angrybirds.com/play/",
+    "thumbnail": "https://picsum.photos/seed/angry/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "35",
+    "title": "Gats.io",
+    "url": "https://gats.io/",
+    "thumbnail": "https://picsum.photos/seed/gats/400/300",
+    "category": "IO"
+  },
+  {
+    "id": "36",
+    "title": "Duck Life 4",
+    "url": "https://www.coolmathgames.com/0-duck-life-4",
+    "thumbnail": "https://picsum.photos/seed/duck/400/300",
+    "category": "Sports"
+  },
+  {
+    "id": "37",
+    "title": "Fireboy and Watergirl",
+    "url": "https://www.coolmathgames.com/0-fireboy-and-watergirl-in-the-forest-temple",
+    "thumbnail": "https://picsum.photos/seed/firewater/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "38",
+    "title": "Run 3",
+    "url": "https://www.coolmathgames.com/0-run-3",
+    "thumbnail": "https://picsum.photos/seed/run3/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "39",
+    "title": "Bloons Tower Defense 5",
+    "url": "https://www.coolmathgames.com/0-bloons-tower-defense-5",
+    "thumbnail": "https://picsum.photos/seed/bloons/400/300",
+    "category": "Strategy"
+  },
+  {
+    "id": "40",
+    "title": "Happy Wheels",
+    "url": "https://www.totaljerkface.com/happy_wheels.tjf",
+    "thumbnail": "https://picsum.photos/seed/wheels/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "41",
+    "title": "Moto X3M",
+    "url": "https://www.coolmathgames.com/0-moto-x3m",
+    "thumbnail": "https://picsum.photos/seed/moto/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "42",
+    "title": "Vex 4",
+    "url": "https://www.coolmathgames.com/0-vex-4",
+    "thumbnail": "https://picsum.photos/seed/vex/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "43",
+    "title": "Tank Trouble",
+    "url": "https://tanktrouble.com/",
+    "thumbnail": "https://picsum.photos/seed/tank/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "44",
+    "title": "Stickman Hook",
+    "url": "https://www.coolmathgames.com/0-stickman-hook",
+    "thumbnail": "https://picsum.photos/seed/stickman/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "45",
+    "title": "Basketball Stars",
+    "url": "https://basketballstars.io/",
+    "thumbnail": "https://picsum.photos/seed/basketball/400/300",
+    "category": "Sports"
+  },
+  {
+    "id": "46",
+    "title": "Soccer Stars",
+    "url": "https://soccerstars.io/",
+    "thumbnail": "https://picsum.photos/seed/soccer/400/300",
+    "category": "Sports"
+  },
+  {
+    "id": "47",
+    "title": "Football Legends",
+    "url": "https://football-legends.io/",
+    "thumbnail": "https://picsum.photos/seed/football2/400/300",
+    "category": "Sports"
+  },
+  {
+    "id": "48",
+    "title": "Tennis Masters",
+    "url": "https://tennismasters.io/",
+    "thumbnail": "https://picsum.photos/seed/tennis/400/300",
+    "category": "Sports"
+  },
+  {
+    "id": "49",
+    "title": "Penalty Shooters 2",
+    "url": "https://penalty-shooters-2.com/",
+    "thumbnail": "https://picsum.photos/seed/penalty/400/300",
+    "category": "Sports"
+  },
+  {
+    "id": "50",
+    "title": "Rooftop Snipers",
+    "url": "https://rooftopsnipers.com/",
+    "thumbnail": "https://picsum.photos/seed/snipers/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "51",
+    "title": "Getaway Shootout",
+    "url": "https://getawayshootout.com/",
+    "thumbnail": "https://picsum.photos/seed/getaway/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "52",
+    "title": "Boxing Physics 2",
+    "url": "https://boxingphysics2.com/",
+    "thumbnail": "https://picsum.photos/seed/boxing/400/300",
+    "category": "Sports"
+  },
+  {
+    "id": "53",
+    "title": "Wrestle Jump",
+    "url": "https://wrestlejump.io/",
+    "thumbnail": "https://picsum.photos/seed/wrestle/400/300",
+    "category": "Sports"
+  },
+  {
+    "id": "54",
+    "title": "Stickman Fighter",
+    "url": "https://stickmanfighter.io/",
+    "thumbnail": "https://picsum.photos/seed/fighter/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "55",
+    "title": "Combat Online",
+    "url": "https://combat-online.io/",
+    "thumbnail": "https://picsum.photos/seed/combat/400/300",
+    "category": "Shooter"
+  },
+  {
+    "id": "56",
+    "title": "Bullet Force",
+    "url": "https://bulletforce.io/",
+    "thumbnail": "https://picsum.photos/seed/bullet/400/300",
+    "category": "Shooter"
+  },
+  {
+    "id": "57",
+    "title": "Forward Assault",
+    "url": "https://forwardassault.io/",
+    "thumbnail": "https://picsum.photos/seed/forward/400/300",
+    "category": "Shooter"
+  },
+  {
+    "id": "58",
+    "title": "Masked Forces",
+    "url": "https://maskedforces.io/",
+    "thumbnail": "https://picsum.photos/seed/masked/400/300",
+    "category": "Shooter"
+  },
+  {
+    "id": "59",
+    "title": "Pixel Gun Apocalypse",
+    "url": "https://pixelgunapocalypse.io/",
+    "thumbnail": "https://picsum.photos/seed/pixel/400/300",
+    "category": "Shooter"
+  },
+  {
+    "id": "60",
+    "title": "Crazy Games",
+    "url": "https://www.crazygames.com/",
+    "thumbnail": "https://picsum.photos/seed/crazy/400/300",
+    "category": "Arcade"
+  },
+  {
+    "id": "61",
+    "title": "Madalin Stunt Cars 2",
+    "url": "https://madalinstuntcars2.io/",
+    "thumbnail": "https://picsum.photos/seed/stunt/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "62",
+    "title": "City Car Stunt 4",
+    "url": "https://citycarstunt4.io/",
+    "thumbnail": "https://picsum.photos/seed/carstunt/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "63",
+    "title": "Extreme Car Driving",
+    "url": "https://extremecardriving.io/",
+    "thumbnail": "https://picsum.photos/seed/extreme/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "64",
+    "title": "Real City Driver",
+    "url": "https://realcitydriver.io/",
+    "thumbnail": "https://picsum.photos/seed/driver/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "65",
+    "title": "Highway Racer",
+    "url": "https://highwayracer.io/",
+    "thumbnail": "https://picsum.photos/seed/highway/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "66",
+    "title": "Drift Boss",
+    "url": "https://driftboss.io/",
+    "thumbnail": "https://picsum.photos/seed/driftboss/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "67",
+    "title": "Sling Drift",
+    "url": "https://slingdrift.io/",
+    "thumbnail": "https://picsum.photos/seed/sling/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "68",
+    "title": "Drift 3",
+    "url": "https://drift3.io/",
+    "thumbnail": "https://picsum.photos/seed/drift3/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "69",
+    "title": "G-Switch 3",
+    "url": "https://gswitch3.io/",
+    "thumbnail": "https://picsum.photos/seed/gswitch/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "70",
+    "title": "OvO",
+    "url": "https://ovo.io/",
+    "thumbnail": "https://picsum.photos/seed/ovo/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "71",
+    "title": "Big Tower Tiny Square",
+    "url": "https://bigtowertinysquare.io/",
+    "thumbnail": "https://picsum.photos/seed/tower/400/300",
+    "category": "Platformer"
+  },
+  {
+    "id": "72",
+    "title": "Fireboy and Watergirl 2",
+    "url": "https://www.coolmathgames.com/0-fireboy-and-watergirl-2-light-temple",
+    "thumbnail": "https://picsum.photos/seed/firewater2/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "73",
+    "title": "Fireboy and Watergirl 3",
+    "url": "https://www.coolmathgames.com/0-fireboy-and-watergirl-3-ice-temple",
+    "thumbnail": "https://picsum.photos/seed/firewater3/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "74",
+    "title": "Fireboy and Watergirl 4",
+    "url": "https://www.coolmathgames.com/0-fireboy-and-watergirl-4-crystal-temple",
+    "thumbnail": "https://picsum.photos/seed/firewater4/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "75",
+    "title": "Fireboy and Watergirl 5",
+    "url": "https://www.coolmathgames.com/0-fireboy-and-watergirl-5-elements",
+    "thumbnail": "https://picsum.photos/seed/firewater5/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "76",
+    "title": "Bloons Tower Defense 4",
+    "url": "https://www.coolmathgames.com/0-bloons-tower-defense-4",
+    "thumbnail": "https://picsum.photos/seed/bloons4/400/300",
+    "category": "Strategy"
+  },
+  {
+    "id": "77",
+    "title": "Bloons Tower Defense 3",
+    "url": "https://www.coolmathgames.com/0-bloons-tower-defense-3",
+    "thumbnail": "https://picsum.photos/seed/bloons3/400/300",
+    "category": "Strategy"
+  },
+  {
+    "id": "78",
+    "title": "Learn to Fly 2",
+    "url": "https://www.coolmathgames.com/0-learn-to-fly-2",
+    "thumbnail": "https://picsum.photos/seed/fly2/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "79",
+    "title": "Learn to Fly 3",
+    "url": "https://www.coolmathgames.com/0-learn-to-fly-3",
+    "thumbnail": "https://picsum.photos/seed/fly3/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "80",
+    "title": "Burrito Bison",
+    "url": "https://www.coolmathgames.com/0-burrito-bison-launcha-libre",
+    "thumbnail": "https://picsum.photos/seed/bison/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "81",
+    "title": "Toss the Turtle",
+    "url": "https://www.coolmathgames.com/0-toss-the-turtle",
+    "thumbnail": "https://picsum.photos/seed/turtle/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "82",
+    "title": "Shopping Cart Hero",
+    "url": "https://www.coolmathgames.com/0-shopping-cart-hero",
+    "thumbnail": "https://picsum.photos/seed/cart/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "83",
+    "title": "Potty Racers",
+    "url": "https://www.coolmathgames.com/0-potty-racers",
+    "thumbnail": "https://picsum.photos/seed/potty/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "84",
+    "title": "Earn to Die",
+    "url": "https://www.coolmathgames.com/0-earn-to-die",
+    "thumbnail": "https://picsum.photos/seed/earndie/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "85",
+    "title": "Earn to Die 2",
+    "url": "https://www.coolmathgames.com/0-earn-to-die-2-exodus",
+    "thumbnail": "https://picsum.photos/seed/earndie2/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "86",
+    "title": "Super Smash Flash 2",
+    "url": "https://mcleodgaming.com/games/ssf2",
+    "thumbnail": "https://picsum.photos/seed/smash2/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "87",
+    "title": "Super Smash Flash",
+    "url": "https://mcleodgaming.com/games/ssf1",
+    "thumbnail": "https://picsum.photos/seed/smash1/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "88",
+    "title": "Pokemon Emerald",
+    "url": "https://emulatorgames.online/games/gba/pokemon-emerald-version",
+    "thumbnail": "https://picsum.photos/seed/emerald/400/300",
+    "category": "Emulator"
+  },
+  {
+    "id": "89",
+    "title": "Pokemon FireRed",
+    "url": "https://emulatorgames.online/games/gba/pokemon-fire-red-version",
+    "thumbnail": "https://picsum.photos/seed/firered/400/300",
+    "category": "Emulator"
+  },
+  {
+    "id": "90",
+    "title": "The Legend of Zelda: The Minish Cap",
+    "url": "https://emulatorgames.online/games/gba/the-legend-of-zelda-the-minish-cap",
+    "thumbnail": "https://picsum.photos/seed/zelda/400/300",
+    "category": "Emulator"
+  },
+  {
+    "id": "91",
+    "title": "Mario Kart Super Circuit",
+    "url": "https://emulatorgames.online/games/gba/mario-kart-super-circuit",
+    "thumbnail": "https://picsum.photos/seed/mariokart/400/300",
+    "category": "Emulator"
+  },
+  {
+    "id": "92",
+    "title": "Kirby & The Amazing Mirror",
+    "url": "https://emulatorgames.online/games/gba/kirby-the-amazing-mirror",
+    "thumbnail": "https://picsum.photos/seed/kirby/400/300",
+    "category": "Emulator"
+  },
+  {
+    "id": "93",
+    "title": "Metroid Fusion",
+    "url": "https://emulatorgames.online/games/gba/metroid-fusion",
+    "thumbnail": "https://picsum.photos/seed/metroid/400/300",
+    "category": "Emulator"
+  },
+  {
+    "id": "94",
+    "title": "Castlevania: Aria of Sorrow",
+    "url": "https://emulatorgames.online/games/gba/castlevania-aria-of-sorrow",
+    "thumbnail": "https://picsum.photos/seed/castlevania/400/300",
+    "category": "Emulator"
+  },
+  {
+    "id": "95",
+    "title": "Fire Emblem",
+    "url": "https://emulatorgames.online/games/gba/fire-emblem",
+    "thumbnail": "https://picsum.photos/seed/fireemblem/400/300",
+    "category": "Emulator"
+  },
+  {
+    "id": "96",
+    "title": "Advance Wars",
+    "url": "https://emulatorgames.online/games/gba/advance-wars",
+    "thumbnail": "https://picsum.photos/seed/advancewars/400/300",
+    "category": "Emulator"
+  },
+  {
+    "id": "97",
+    "title": "Golden Sun",
+    "url": "https://emulatorgames.online/games/gba/golden-sun",
+    "thumbnail": "https://picsum.photos/seed/goldensun/400/300",
+    "category": "Emulator"
+  },
+  {
+    "id": "98",
+    "title": "Mother 3",
+    "url": "https://emulatorgames.online/games/gba/mother-3",
+    "thumbnail": "https://picsum.photos/seed/mother3/400/300",
+    "category": "Emulator"
+  },
+  {
+    "id": "99",
+    "title": "Mega Man Zero",
+    "url": "https://emulatorgames.online/games/gba/mega-man-zero",
+    "thumbnail": "https://picsum.photos/seed/megaman/400/300",
+    "category": "Emulator"
+  },
+  {
+    "id": "100",
+    "title": "WarioWare, Inc.",
+    "url": "https://emulatorgames.online/games/gba/warioware-inc-mega-microgames",
+    "thumbnail": "https://picsum.photos/seed/wario/400/300",
+    "category": "Emulator"
+  }
+]
