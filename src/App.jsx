@@ -29,6 +29,11 @@ export default function App() {
     });
   }, [searchQuery, selectedCategory]);
 
+  const trendingGames = useMemo(() => {
+    // For now, let's just pick the first 6 games as trending
+    return gamesData.slice(0, 6);
+  }, []);
+
   const recentGames = gamesData.slice(0, 5);
   const todoGames = gamesData.slice(5, 10);
 
@@ -106,9 +111,14 @@ export default function App() {
               </div>
 
               <div className="flex justify-between items-center mb-6 border-b border-white/10 pb-4">
-                <h2 className="text-2xl font-bold text-white">
-                  Dashboard
-                </h2>
+                <div className="flex flex-col">
+                  <h2 className="text-2xl font-bold text-white">
+                    Dashboard
+                  </h2>
+                  <p className="text-xs text-white/40 font-mono mt-1 uppercase tracking-widest">
+                    Total Modules: {gamesData.length}
+                  </p>
+                </div>
                 <div className="flex gap-2">
                   <button className="text-xs font-bold text-white/60 hover:text-neon-red border border-white/10 px-3 py-1.5 rounded hover:bg-white/5 transition-all flex items-center gap-2">
                     <LayoutDashboard size={14} /> View Grades
@@ -116,7 +126,49 @@ export default function App() {
                 </div>
               </div>
 
+              {/* Trending Games Section */}
+              <div className="mb-12">
+                <div className="flex items-center gap-2 mb-6">
+                  <Flame className="text-neon-red fill-neon-red" size={20} />
+                  <h3 className="text-sm font-bold text-white uppercase tracking-widest">Trending Modules</h3>
+                  <div className="h-px flex-1 bg-white/10 ml-4"></div>
+                </div>
+                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+                  {trendingGames.map((game) => (
+                    <motion.div
+                      whileHover={{ scale: 1.05 }}
+                      whileTap={{ scale: 0.95 }}
+                      key={`trending-${game.id}`}
+                      onClick={() => setActiveGame(game)}
+                      className="relative aspect-[4/5] rounded-md overflow-hidden cursor-pointer group border border-white/10 hover:border-neon-red transition-all"
+                    >
+                      <img
+                        src={game.thumbnail}
+                        alt={game.title}
+                        className="w-full h-full object-cover opacity-60 group-hover:opacity-100 transition-opacity"
+                        referrerPolicy="no-referrer"
+                      />
+                      <div className="absolute inset-0 bg-gradient-to-t from-brutal-black/90 via-transparent to-transparent"></div>
+                      <div className="absolute bottom-0 left-0 right-0 p-3">
+                        <p className="text-[10px] font-bold text-neon-red uppercase mb-1 truncate">{game.category}</p>
+                        <h4 className="text-xs font-bold text-white leading-tight line-clamp-2">{game.title}</h4>
+                      </div>
+                      <div className="absolute top-2 right-2">
+                        <div className="bg-neon-red text-white text-[8px] font-bold px-1.5 py-0.5 rounded uppercase shadow-[0_0_10px_rgba(255,0,0,0.5)]">
+                          Trending
+                        </div>
+                      </div>
+                    </motion.div>
+                  ))}
+                </div>
+              </div>
+
               {/* Course Cards (Games) */}
+              <div className="flex items-center gap-2 mb-6">
+                <LayoutDashboard className="text-white/40" size={20} />
+                <h3 className="text-sm font-bold text-white uppercase tracking-widest">All Modules</h3>
+                <div className="h-px flex-1 bg-white/10 ml-4"></div>
+              </div>
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                 {filteredGames.map((game) => (
                   <motion.div
